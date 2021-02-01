@@ -1,0 +1,26 @@
+/* External CSS */
+h1{
+    color: black;
+    background: crimson;
+}
+
+/* ID */
+#paragraph{
+    color: hotpink;
+    background: black;
+}
+
+/* class selectors */
+.blue{
+    color:blue;
+}
+.orange{
+    color: orange;
+    background:black;
+}
+
+/* Div/ Grouping */
+div{
+    background:grey;
+    border: 5px solid red;
+}
